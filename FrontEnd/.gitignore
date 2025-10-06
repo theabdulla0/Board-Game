@@ -16,7 +16,7 @@
 
 ### React ###
 # React build directory and environment files
-
+node_modules/
 build/
 .env.local
 .env.development.local
